@@ -18,7 +18,7 @@ Conozco una operación por dentro: lidero equipos de reaprovisionamiento en reta
 ## Proyectos destacados
 
 - **[SportStock · Analítica de stock retail](https://github.com/fernandez-cesar13/sportstock-retail-analytics)**: análisis de stock de una cadena ficticia con datos sintéticos. Generador en Python con tests, 9 KPIs en SQL sobre SQLite y un informe de Power BI de 4 páginas con 20 medidas DAX.
-- **[Resumen diario de stock con n8n](https://github.com/fernandez-cesar13/n8n-stock-reorder-report)**: flujo que detecta los productos bajo mínimo, calcula qué pedir y envía por correo los pedidos agrupados por proveedor, con aviso automático si algo falla.
+- **[Resumen diario de stock con n8n](https://github.com/fernandez-cesar13/n8n-stock-reorder-report)**: flujo que detecta los productos bajo mínimo, calcula el pedido hasta el doble del stock mínimo y deja un borrador de correo por proveedor, redactado con IA, para revisarlo antes de enviarlo. Si no falta nada, avisa por correo.
 
 ## Contacto
 
